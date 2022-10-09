@@ -1,7 +1,7 @@
 ## 안녕하세요, iOS 개발자 최원석 입니다.
 
 ### 📞 Contact
-
+<a href="https://kurediary.tistory.com//"><img src="https://img.shields.io/badge/My Blog-FF6600?style=round-square&logo=Blogger&logoColor=white"/>
 
 ### 🛠 Tech
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
